@@ -1,2 +1,2 @@
-# SIGED-certificado-secundaria-autenticacion-VEUE880719MCHLZL02
-VEUE880719MCHLZL02
+# SIGED-certificado-preparatoria-autenticacion-HEHJ010708MTSRRDA6
+HEHJ010708MTSRRDA6
